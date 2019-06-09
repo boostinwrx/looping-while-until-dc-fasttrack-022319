@@ -6,5 +6,5 @@ puts "Wingardium Leviosa"
 counter+=1
 break
 end
+end
 
-using_while

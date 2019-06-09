@@ -1,10 +1,7 @@
 def using_until
-loop do
 counter = 6
-while counter < 10
+until counter == 10
  puts "Wingardium Leviosa"
-counter+1
+counter+=1
+  end
 end
- 
-
-using_until
